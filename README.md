@@ -1,2 +1,4 @@
 # squab
-![logo](resources/squab.png)
+<p align="center">
+  <img src="./assets/logo.png" alt="Logo" width="200"/>
+</p>
